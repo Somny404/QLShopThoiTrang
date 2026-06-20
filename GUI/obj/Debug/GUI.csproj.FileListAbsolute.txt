@@ -1,0 +1,120 @@
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.exe.config
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.exe
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\BUS.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DAL.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DTO.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\BUS.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DTO.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DAL.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Resources\Styles.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\LoginWindow.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\MainWindow.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\DashboardView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\SanPhamView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\KhachHangView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhanVienView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\HoaDonView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhapHangView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\ThongKeView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\BackupRestoreView.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\App.baml
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\LoginWindow.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\MainWindow.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\DashboardView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\SanPhamView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\KhachHangView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhanVienView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\HoaDonView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhapHangView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\ThongKeView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\BackupRestoreView.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\App.g.cs
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang_MarkupCompile.cache
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.g.resources
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.Up2Date
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.exe
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.exe.config
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\QLShopThoiTrang.exe.config
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\QLShopThoiTrang.exe
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\QLShopThoiTrang.pdb
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\BUS.dll
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\DAL.dll
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\DTO.dll
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\BUS.pdb
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\DTO.pdb
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\bin\Debug\DAL.pdb
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\QLShopThoiTrang.exe.config
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Resources\Styles.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\LoginWindow.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\MainWindow.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\DashboardView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\SanPhamView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\KhachHangView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\NhanVienView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\HoaDonView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\NhapHangView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\ThongKeView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\BackupRestoreView.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\App.baml
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\LoginWindow.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\MainWindow.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\DashboardView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\SanPhamView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\KhachHangView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\NhanVienView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\HoaDonView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\NhapHangView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\ThongKeView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\Views\BackupRestoreView.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\App.g.cs
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\QLShopThoiTrang_MarkupCompile.cache
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\QLShopThoiTrang.g.resources
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\GUI.csproj.Up2Date
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\QLShopThoiTrang.exe
+F:\DOAN_QL_SHOP_THOITRANG_SQL_NHOM_8\GUI\obj\Debug\QLShopThoiTrang.pdb
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.exe.config
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.exe
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\QLShopThoiTrang.pdb
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\BUS.dll
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DAL.dll
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DTO.dll
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\BUS.pdb
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DTO.pdb
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\bin\Debug\DAL.pdb
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.exe.config
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Resources\Styles.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\LoginWindow.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\MainWindow.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\DashboardView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\SanPhamView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\KhachHangView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhanVienView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\HoaDonView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhapHangView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\ThongKeView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\BackupRestoreView.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\App.baml
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\LoginWindow.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\MainWindow.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\DashboardView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\SanPhamView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\KhachHangView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhanVienView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\HoaDonView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\NhapHangView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\ThongKeView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\Views\BackupRestoreView.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\App.g.cs
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang_MarkupCompile.cache
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.g.resources
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\GUI.csproj.Up2Date
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.exe
+F:\Shopthoitrang\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\GUI\obj\Debug\QLShopThoiTrang.pdb

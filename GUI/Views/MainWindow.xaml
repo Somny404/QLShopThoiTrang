@@ -1,0 +1,52 @@
+<Window x:Class="GUI.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản Lý Shop Thời Trang" Height="700" Width="1100"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        Background="{StaticResource BgBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ========== SIDEBAR ========== -->
+        <Border Grid.Column="0" Background="{StaticResource SidebarBrush}">
+            <DockPanel>
+                <!-- Header -->
+                <StackPanel DockPanel.Dock="Top" Margin="0,20,0,20">
+                    <TextBlock Text="👗" FontSize="36" HorizontalAlignment="Center"/>
+                    <TextBlock Text="SHOP THỜI TRANG" FontSize="16" FontWeight="Bold"
+                               Foreground="White" HorizontalAlignment="Center" Margin="0,8,0,0"/>
+                    <TextBlock x:Name="lblUser" FontSize="11" Foreground="#78909C"
+                               HorizontalAlignment="Center" Margin="0,4,0,0"/>
+                    <TextBlock x:Name="lblRole" FontSize="11" Foreground="{StaticResource AccentBrush}"
+                               HorizontalAlignment="Center" Margin="0,2,0,0"/>
+                    <Border Height="1" Background="#2A3F54" Margin="20,12,20,0"/>
+                </StackPanel>
+
+                <!-- Logout -->
+                <Button DockPanel.Dock="Bottom" Content="🚪  Đăng xuất"
+                        Style="{StaticResource SidebarBtn}" Margin="0,0,0,10" Click="BtnLogout_Click"/>
+
+                <!-- Menu Items -->
+                <StackPanel>
+                    <Button Content="📊  Dashboard"          Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="Dashboard"/>
+                    <Button Content="📦  Sản phẩm"           Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="SanPham"/>
+                    <Button Content="👤  Khách hàng"          Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="KhachHang"/>
+                    <Button Content="👨‍💼  Nhân viên"          Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="NhanVien" x:Name="btnNhanVien"/>
+                    <Button Content="🛒  Bán hàng"           Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="HoaDon"/>
+                    <Button Content="📥  Nhập hàng"           Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="NhapHang"/>
+                    <Button Content="📈  Thống kê"            Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="ThongKe" x:Name="btnThongKe"/>
+                    <Button Content="💾  Backup / Restore"    Style="{StaticResource SidebarBtn}" Click="BtnMenu_Click" Tag="Backup" x:Name="btnBackup"/>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+
+        <!-- ========== CONTENT AREA ========== -->
+        <Border Grid.Column="1" Margin="0">
+            <ContentControl x:Name="ContentArea"/>
+        </Border>
+    </Grid>
+</Window>
