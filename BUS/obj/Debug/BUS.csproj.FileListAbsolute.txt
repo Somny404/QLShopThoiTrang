@@ -1,0 +1,11 @@
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\BUS.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\BUS.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\DAL.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\DTO.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\DTO.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\bin\Debug\DAL.pdb
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\obj\Debug\BUS.csproj.Up2Date
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\obj\Debug\BUS.dll
+F:\ĐỒ ÁN QL SHOP THỜI TRANG SQL NHÓM 8\BUS\obj\Debug\BUS.pdb
